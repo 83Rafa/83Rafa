@@ -1,7 +1,7 @@
 # Olá!!! Eu sou o Rafa. 👋 
 
 ### Bem vindo ao meu Perfil.
-<p>Me chamo Rafael Soares, um profissional em transição de carreira, apaixonado por tecnologia (especialmente Data Science, Machine Learning e Mobile) que está corredo do sonho de contribuir com esse mundo incrível.</p>
+<p>Me chamo Rafael Soares. Profissional buscando uma transição de carreira, apaixonado por tecnologia (especialmente Data Science, Machine Learning e Mobile) que está corredo do sonho de contribuir com esse mundo incrível.</p>
 
 
 <div align="center">
