@@ -26,7 +26,7 @@
 
 
 - 🔭 Atualmente estou estudando Ciência de Dados 
-- 🌱 Estou aprendendo Python, HTML, Java, JS, SQL e NoSQL
+- 🌱 Estou aprendendo Python, HTML, JS, SQL e NoSQL
 - 📫 Contate-me em: elfaramail@gmail.com
 
 
