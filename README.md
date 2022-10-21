@@ -2,7 +2,7 @@
 
 ### Bem vindo ao meu Perfil.
 <p>
-  Me chamo Rafael Soares. Um recente apaixonado pela Ciência de Dados com sua infinidade de possibilidades e estou estudando muito pelo sonho de contribuir com esse mundo incrível. Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que transformam vidas através da tecnologia.
+  Me chamo Rafael Soares. Um apaixonado pela Ciência de Dados com sua infinidade de possibilidades e estou estudando muito pelo sonho de contribuir com esse mundo incrível. Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que transformam vidas através da tecnologia.
 
 </p>
 
@@ -24,6 +24,6 @@
 <div>
    <a href="https://www.linkedin.com/in/-rafael-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://discord.gg/wagxzStdcR" target="83Rfl#3843"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:elfaramail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:83rafasoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
