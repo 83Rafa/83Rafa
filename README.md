@@ -2,7 +2,7 @@
 
 ### Bem vindo ao meu Perfil.
 <p>
-  Me chamo Rafael Soares. Um apaixonado pela Ciência de Dados com sua infinidade de possibilidades e estou estudando muito pelo sonho de contribuir com esse mundo incrível. Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que transformam vidas através da tecnologia.
+  Me chamo Rafael Soares. Uma pessoa que quanto mais aprende mais se apaixona pela tecnologia e a programação. Estou me dedicando à Ciência de Dados por acreditar que com sua infinidade de possibilidades é possível tornar empresas e negócios lucrativos e ecologicamente sustentáveis. Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor através da tecnologia.
 
 </p>
 
