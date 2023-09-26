@@ -1,13 +1,11 @@
-# Olá!!! Eu sou o Rafa. 👋 
+<div align='justify'>
+  <h1>Olá!!! Eu sou o Rafa. 👋 </h1>
 
-### Bem vindo ao meu Perfil.
-<p>
-  Me chamo Rafael Soares. Um curioso por natureza. Um equilíbio entre lógica/razão/fatos e a clareza de que apesar de tudo isso, nada sabemos.
-  Para mim é uma verdadeira diversão olhar para dados aparentemente desordenados, imaginar a história ali esperando para ser descoberta. Mergulhar em seu conteúdo para minerar riquezas. A Ciência de Dados é simplesmente mágica! Analizar comportamentos, reconhecer padrões e, de certa forma, prever o futuro.  Não tem como não se apaixonar por algo com potencial não só de tornar empresas e negócios lucrativos, eficientes e sustentáveis, mas também, de ajudar, através da informação, trazer de volta mais humanidade para as relações em geral, sejam elas comerciais ou não. 
-</p>
-<p>
-   Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor de verdade através da tecnologia. 
-</p>
+  <h3>Bem vindo ao meu Perfil.</h3>
+  <p>Me chamo Rafael Soares. Um curioso por natureza. Um equilíbio entre lógica, razão e fatos e a clareza de que apesar de tudo isso, nada sabemos.</p>
+  <p>Para mim é uma verdadeira diversão olhar para dados aparentemente desordenados, imaginar a história ali esperando para ser descoberta. Mergulhar em seu conteúdo para minerar riquezas. A Ciência de Dados é simplesmente mágica! Analizar comportamentos, reconhecer padrões e, de certa forma, prever o futuro.  Não tem como não se apaixonar por algo com potencial não só de tornar empresas e negócios lucrativos, eficientes e sustentáveis, mas também, de ajudar, através da informação, trazer de volta mais humanidade para as relações em geral, sejam elas comerciais ou não.</p>
+  <p>Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor de verdade através da tecnologia. </p>
+</div>
 
 
 <div align="center">
